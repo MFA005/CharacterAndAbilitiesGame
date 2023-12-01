@@ -1,0 +1,14 @@
+E:\Workspace\A4MuhammadFBahlK\A4MuhammadFBahlK\bin\Debug\net6.0\A4MuhammadFBahlK.exe
+E:\Workspace\A4MuhammadFBahlK\A4MuhammadFBahlK\bin\Debug\net6.0\A4MuhammadFBahlK.deps.json
+E:\Workspace\A4MuhammadFBahlK\A4MuhammadFBahlK\bin\Debug\net6.0\A4MuhammadFBahlK.runtimeconfig.json
+E:\Workspace\A4MuhammadFBahlK\A4MuhammadFBahlK\bin\Debug\net6.0\A4MuhammadFBahlK.dll
+E:\Workspace\A4MuhammadFBahlK\A4MuhammadFBahlK\bin\Debug\net6.0\A4MuhammadFBahlK.pdb
+E:\Workspace\A4MuhammadFBahlK\A4MuhammadFBahlK\obj\Debug\net6.0\A4MuhammadFBahlK.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\A4MuhammadFBahlK\A4MuhammadFBahlK\obj\Debug\net6.0\A4MuhammadFBahlK.AssemblyInfoInputs.cache
+E:\Workspace\A4MuhammadFBahlK\A4MuhammadFBahlK\obj\Debug\net6.0\A4MuhammadFBahlK.AssemblyInfo.cs
+E:\Workspace\A4MuhammadFBahlK\A4MuhammadFBahlK\obj\Debug\net6.0\A4MuhammadFBahlK.csproj.CoreCompileInputs.cache
+E:\Workspace\A4MuhammadFBahlK\A4MuhammadFBahlK\obj\Debug\net6.0\A4MuhammadFBahlK.dll
+E:\Workspace\A4MuhammadFBahlK\A4MuhammadFBahlK\obj\Debug\net6.0\refint\A4MuhammadFBahlK.dll
+E:\Workspace\A4MuhammadFBahlK\A4MuhammadFBahlK\obj\Debug\net6.0\A4MuhammadFBahlK.pdb
+E:\Workspace\A4MuhammadFBahlK\A4MuhammadFBahlK\obj\Debug\net6.0\A4MuhammadFBahlK.genruntimeconfig.cache
+E:\Workspace\A4MuhammadFBahlK\A4MuhammadFBahlK\obj\Debug\net6.0\ref\A4MuhammadFBahlK.dll
